@@ -1,0 +1,25 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "二维码",
+          "pathName": "pages/index/index",
+          "query": "q=https%3A%2F%2Fyyyw.qiantur.com%2Fapplet%2FcompanyId%3D6232bcc6a99a2f4b08dc4979%26assetsId%3D623c11c628726cf72be3153e&scancode_time=1650255949",
+          "scene": null,
+          "launchMode": "default"
+        }
+      ]
+    }
+  }
+}
